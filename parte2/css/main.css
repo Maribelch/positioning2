@@ -2,7 +2,8 @@
     width: 400px;
     height: 400px;
    position: static;
-    background-color:	#0000FF;     
+    background-color:	#0000FF;
+
 }
 .caja2{
     width: 100px;
@@ -10,12 +11,14 @@
     position: relative;
       background-color:#000000;
     right: 100px;
-    
+    left: 0px;
+
 }
 .caja3{
-    width: 200px;
+    width: 250px;
     height: 200px;
     position: absolute;
     background-color:	#228B22;
     margin: 100px;
+    left: 1px;
 }
