@@ -1,1 +1,21 @@
-/* Inserta tu CSS aqui */
+.caja1{
+    width: 400px;
+    height: 400px;
+   position: static;
+    background-color:#ee3e64;
+     
+}
+.caja2{
+    width: 100px;
+    height: 100px;
+    position: relative;
+      background-color:#44accf;
+    
+}
+.caja3{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    background-color:#b7d84b;
+    margin: 100px;
+}
